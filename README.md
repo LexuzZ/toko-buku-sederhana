@@ -3,6 +3,7 @@
 [![Laravel](https://img.shields.io/badge/Laravel-12.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![PHP](https://img.shields.io/badge/PHP-%5E8.2-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.x-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.x-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 Proyek ini adalah aplikasi web sederhana yang dibangun dengan Laravel untuk mengelola koleksi buku di sebuah toko buku. Aplikasi ini memungkinkan pemilik toko untuk melacak buku, penulis, dan rating, serta menampilkan data buku terpopuler dan penulis paling terkenal untuk membantu memberikan rekomendasi kepada pelanggan.
