@@ -20,8 +20,8 @@ Proyek ini adalah aplikasi web sederhana yang dibangun dengan Laravel untuk meng
 Buka terminal Anda dan clone repositori ini ke direktori lokal Anda.
 
 ```bash
-  git clone [URL_REPOSITORI_ANDA]
-  cd Book
+  git clone https://github.com/LexuzZ/toko-buku-sederhana
+  cd toko-buku-sederhana
 ```
     
 ## Install Dependensi PHP
