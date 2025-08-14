@@ -70,7 +70,7 @@ php artisan migrate:fresh --seed
 Setelah semua langkah di atas berhasil, jalankan server pengembangan lokal Laravel.
 
 ```bash
-php artisan serve
+php artisan serve & npm run dev
 ```
 ## Buka Aplikasi
 
